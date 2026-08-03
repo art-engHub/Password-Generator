@@ -1,8 +1,8 @@
 {
   "name": "password-generator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple password generator built with TypeScript and Node.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "tsx src/index.ts",
     "build": "tsc",
@@ -12,14 +12,15 @@
     "type": "git",
     "url": "git+https://github.com/art-engHub/Password-Generator.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "password",
+    "generator",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "art-engHub",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/art-engHub/Password-Generator/issues"
-  },
-  "homepage": "https://github.com/art-engHub/Password-Generator#readme",
   "devDependencies": {
     "@types/node": "^26.1.2",
     "tsx": "^4.23.5",

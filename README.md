@@ -76,6 +76,16 @@ Generated Password:
 G7@kP2!xLm9#Qa4$
 ```
 
+test output:
+
+```text
+✔ should generate password with correct length (2.3047ms)
+✔ should generate different passwords (0.3515ms)
+ℹ tests 2
+ℹ suites 0
+ℹ pass 2
+```
+
 ## 🏗️ Build
 
 Compile TypeScript:

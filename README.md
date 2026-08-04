@@ -33,6 +33,8 @@ password-generator/
 ├── src/
 │   ├── index.ts
 │   └── generator.ts
+├── test/
+│   └── generator.test.ts
 │
 ├── package.json
 ├── tsconfig.json

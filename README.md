@@ -76,6 +76,12 @@ Generated Password:
 G7@kP2!xLm9#Qa4$
 ```
 
+test the project:
+
+```bash
+npm test
+```
+
 test output:
 
 ```text
